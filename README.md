@@ -1,2 +1,2 @@
-# authsafe
+# AuthSafe
 AuthSafe Documentation
